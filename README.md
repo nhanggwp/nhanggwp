@@ -96,7 +96,7 @@ const profile = {
 
 ## 🥇 CHAMPION - GOLD MEDAL 🥇
 
-### Bach Khoa Innovation 2024
+### Bach Khoa Innovation 2025
 **University-Enterprise Track**
 
 <img src="https://img.shields.io/badge/🏆-1ST_PLACE-FFD700?style=for-the-badge&labelColor=000000" />
