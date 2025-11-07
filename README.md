@@ -77,21 +77,17 @@ const profile = {
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nhanggwp&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</div>
-
 ---
 
 ## � Achievements & Awards
 
 <div align="center">
 
-| Award           | Competition                                               | Project                                                                                     | Repository                                                                                                                                |
-| :-------------- | :-------------------------------------------------------- | :------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------- |
-| 🥇 **Champion** | Bach Khoa Innovation 2024<br/>University-Enterprise Track | **GreenBooth** - Smart Waste Sorting System<br/>_TFLite Object Detection + IoT Integration_ | [![Repo](https://img.shields.io/badge/View-Repository-blue?style=flat&logo=github)](https://github.com/longlephamtien/GreenBooth)         |
-| 🥇 **Champion** | UIT Data Science Challenge 2025                           | **MediTrack** - AI Prescription OCR<br/>_Tesseract OCR + Drug Name Extraction_              | [![Repo](https://img.shields.io/badge/View-Repository-blue?style=flat&logo=github)](https://github.com/nhanggwp/BKU-MEDITRACK_Sourcecode) |
-| 🥈 **Finalist** | Bach Khoa Innovation 2025<br/>University Track            | **MediTrack Platform** - Medical Tracking App<br/>_FastAPI Backend + React Native Mobile_   | [![Repo](https://img.shields.io/badge/View-Repository-blue?style=flat&logo=github)](https://github.com/nhanggwp/BKU-MEDITRACK_Sourcecode) |
+| 🎖️ Icon | Award | Competition | Project | Repository |
+| :------: | :---- | :---------- | :------ | :--------- |
+| 🥇 | **Champion** | **Bach Khoa Innovation 2024**<br/>University-Enterprise Track | **GreenBooth** - Smart Waste Sorting System<br/>_TFLite Object Detection + IoT Integration_ | [![Repo](https://img.shields.io/badge/View-Repository-blue?style=flat&logo=github)](https://github.com/longlephamtien/GreenBooth) |
+| 🏆 | **Champion** | **UIT Data Science Challenge 2025** | **MediTrack** - AI Prescription OCR<br/>_Tesseract OCR + Drug Name Extraction_ | [![Repo](https://img.shields.io/badge/View-Repository-blue?style=flat&logo=github)](https://github.com/nhanggwp/BKU-MEDITRACK_Sourcecode) |
+| 🎓 | **Finalist** | **Bach Khoa Innovation 2025**<br/>University Track | **MediTrack Platform** - Medical Tracking App<br/>_FastAPI Backend + React Native Mobile_ | [![Repo](https://img.shields.io/badge/View-Repository-blue?style=flat&logo=github)](https://github.com/nhanggwp/BKU-MEDITRACK_Sourcecode) |
 
 </div>
 
