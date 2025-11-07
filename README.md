@@ -11,8 +11,8 @@
 <p align="center">
   <a href="https://github.com/nhanggwp"><img src="https://img.shields.io/badge/GitHub-nhanggwp-0d1117?logo=github" /></a>
   <a href="https://www.linkedin.com/in/nh%C3%A2n-nguy%E1%BB%85n-trung-3017a02a1/"><img src="https://img.shields.io/badge/LinkedIn-View%20Profile-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/GPA-3.7%2F4.0-22c55e" />
-  <img src="https://img.shields.io/badge/October%20Term-8.73%2F10-22c55e" />
+  <img src="https://img.shields.io/badge/GPA-3.7%2F4.0-14b8a6?style=flat-square" />
+  <img src="https://img.shields.io/badge/GPA%20(Scale%2010)-8.73%2F10-22c55e?style=flat-square" />
 </p>
 
 ---
@@ -20,26 +20,44 @@
 <h2 align="center">✨ About Me</h2>
 
 - 🎓 Computer Science Student @ **HCMUT** (English Program)  
-- 🧠 Focus: **AI/OCR**, **FastAPI**, **React Native**, **Distributed Systems**, **Database Design**  
-- 🚀 Building real-world projects: MediTrack, GreenBooth, Tutor System, HireMatch  
-- 🎯 Goal: Deliver production-quality, end-to-end systems
+- 🧠 Focus: **AI/OCR**, **FastAPI**, **React Native**, **Distributed Systems**  
+- 🏗 Love building end-to-end systems: backend → mobile → AI model  
+- 📊 Strong at database design, ER diagrams, UML, scalable architecture  
+- 🎯 Goal: Become a versatile software engineer capable of shipping production-ready systems
 
 ---
 
 <h2 align="center">🏆 Achievements</h2>
 
-- 🥇 **Champion – Bach Khoa Innovation (University–Enterprise Collaboration Track)**  
-  Project: *GreenBooth – Smart Waste Sorting System* • Repo: https://github.com/longlephamtien/GreenBooth  
+<!-- Achievement Cards -->
+<p align="center">
+  <!-- Card 1 -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=longlephamtien&repo=GreenBooth&theme=tokyonight&border_color=00f0ff&border_radius=10" />
+  
+  <!-- Card 2 -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhanggwp&repo=BKU-MEDITRACK_Sourcecode&theme=tokyonight&border_color=f72585&border_radius=10" />
+</p>
 
-- 🥇 **Champion – UIT Data Science Challenge 2025**  
-  Project: *MediTrack – AI-powered Prescription OCR & Health Assistant* • Repo: https://github.com/nhanggwp/BKU-MEDITRACK_Sourcecode  
+<br/>
 
-- 🥈 **Finalist – Bach Khoa Innovation 2025 (University Track)**  
-  Project: *MediTrack – AI-driven Medical Tracking Platform* • Repo: https://github.com/nhanggwp/BKU-MEDITRACK_Sourcecode  
+<p align="center">
+  <img src="https://img.shields.io/badge/🥇%20Champion-Bach%20Khoa%20Innovation%20(Uni–Enterprise)-ffdd00?style=for-the-badge" />
+  <br/>
+  <strong>GreenBooth – Smart Waste Sorting System</strong>  
+  <sub>Repo:</sub> https://github.com/longlephamtien/GreenBooth  
+  <br/><br/>
 
-- 📚 **Academic Performance**  
-  - **GPA:** 3.7 / 4.0  
-  - **October term:** 8.73 / 10  
+  <img src="https://img.shields.io/badge/🥇%20Champion-UIT%20Data%20Science%20Challenge%202025-4ade80?style=for-the-badge" />
+  <br/>
+  <strong>MediTrack – AI-powered Prescription OCR</strong>  
+  <sub>Repo:</sub> https://github.com/nhanggwp/BKU-MEDITRACK_Sourcecode  
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/🥈%20Finalist-Bach%20Khoa%20Innovation%202025%20(University)-60a5fa?style=for-the-badge" />
+  <br/>
+  <strong>MediTrack – AI-driven Medical Tracking Platform</strong>  
+  <sub>Repo:</sub> https://github.com/nhanggwp/BKU-MEDITRACK_Sourcecode  
+</p>
 
 ---
 
@@ -48,12 +66,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java,react,fastapi,nodejs,express,postgres,docker,git,figma,tensorflow" />
 </p>
-
-- Backend: **FastAPI**, **Python**, **TFLite**, **Tesseract OCR**  
-- Frontend/Mobile: **React Native (Expo)**, **React**  
-- Database: **PostgreSQL / Supabase**, **SQLAlchemy/Alembic**  
-- Diagrams: **Mermaid**, **PlantUML**, **UML**  
-- QA/DevOps: **pytest**, **Docker**, **GitHub Actions**
 
 ---
 
@@ -74,7 +86,6 @@
 
 ### 📱 MediTrack — AI Prescription OCR
 FastAPI backend + Tesseract OCR + AI drug extraction + React Native app.  
-→ Real-world medical assistant prototype.  
 Repo: https://github.com/nhanggwp/BKU-MEDITRACK_Sourcecode
 
 ### 🧪 GreenBooth — Smart Weighing & Detection
@@ -82,16 +93,13 @@ Camera + TFLite + Serial sensor → detects glass objects in real-time.
 Repo: https://github.com/longlephamtien/GreenBooth
 
 ### 🎓 Tutor Support System
-Scalable ERD, DDL, backend systems for tutoring management.  
-(Private coursework repo; diagrams available on request.)
+ERD, DDL, backend system for tutoring & study progress management.
 
 ### 💼 HireMatch
-CV parsing + matching algorithm + recruiter dashboard.  
-(Prototype repo; WIP.)
+CV parsing + matching algorithm + recruiter workflow (prototype).
 
 ### 📚 Library Management System
-Borrow/return flows, overdue logic, fines, damaged book compensation.  
-(Prototype repo; WIP.)
+Borrow/return flows, overdue logic, fines, damaged-book compensation.
 
 ---
 
