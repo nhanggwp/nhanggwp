@@ -98,7 +98,7 @@ const profile = {
 <tr>
 <td width="100%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="100" />
+<img src="https://img.icons8.com/color/96/000000/trophy.png" width="100" />
 
 ## 🥇 CHAMPION - GOLD MEDAL 🥇
 
@@ -112,8 +112,6 @@ const profile = {
 ---
 
 ### 🌱 **GreenBooth** - Smart Waste Sorting System
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
 
 **Revolutionary AI-Powered Environmental Solution**
 
@@ -149,7 +147,7 @@ project = {
 <tr>
 <td width="100%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100" />
+<img src="https://img.icons8.com/color/96/000000/medal.png" width="100" />
 
 ## 🏆 CHAMPION - TROPHY 🏆
 
@@ -163,8 +161,6 @@ project = {
 ---
 
 ### 💊 **MediTrack** - AI Prescription OCR Platform
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="600">
 
 **Advanced Medical AI Recognition System**
 
@@ -200,7 +196,7 @@ project = {
 <tr>
 <td width="100%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="100" />
+<img src="https://img.icons8.com/color/96/000000/certificate.png" width="100" />
 
 ## 🎓 FINALIST - TOP 10 🎓
 
@@ -214,8 +210,6 @@ project = {
 ---
 
 ### 📱 **MediTrack Platform** - Full-Stack Medical Application
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600">
 
 **Complete Healthcare Management System**
 
