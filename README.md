@@ -367,6 +367,10 @@ graph TD
 
 <div align="center">
 
+<!-- HANDSHAKE GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.gif" width="200"/>
+<br/><br/>
+
 [![GitHub](https://img.shields.io/badge/GitHub-nhanggwp-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nhanggwp)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nguyễn_Trung_Nhân-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nh%C3%A2n-nguy%E1%BB%85n-trung-3017a02a1/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nhan.nguyen@example.com)
@@ -392,6 +396,11 @@ graph TD
 
 <div align="center">
 
+<!-- COFFEE GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="200" />
+
+<br/>
+
 If you find my projects helpful, consider buying me a coffee! ☕
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/nhanggwp)
@@ -412,6 +421,9 @@ If you find my projects helpful, consider buying me a coffee! ☕
 
 ### 🎮 Fun Fact
 
+<!-- GAMING GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
 ```python
 while(True):
     coffee = drink_coffee()
@@ -423,6 +435,9 @@ while(True):
         debug()
         repeat()
 ```
+
+<!-- FOOTER DRAGON -->
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300"/>
 
 ---
 
