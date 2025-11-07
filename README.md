@@ -1,17 +1,17 @@
 <!-- ====================== ANIMATED HEADER ====================== -->
 <div align="center">
-  
+
+<!-- CYBER DRAGON IMAGE -->
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400"/>
+
 # 🌌 CYBER DRAGON AWAKENS 🐉
 
-```ascii
-   ___        _                        ______                _                 _             
-  / __|  _  _| |__ _ _ _  __ _  ___   |  _  \ _ _ _ _  _ _ _| |__  ___ _ _  __| | ___  _ _   
-  \__ \ | || | / _` | ' \/ _` |/ -_)  | | | | '_| ' \| '_| _| '_ \/ -_) ' \/ _` |/ _ \| ' \  
-  |___/  \_,_|_\__,_|_||_\__, |\___|  |_| |_|_| |_||_|_| \__|_.__/\___|_||_\__,_|\___/|_||_| 
-                         |___/                                                                
-```
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Nguyen%20Trung%20Nhan&fontAlign=50&fontAlignY=40&fontSize=70&color=gradient&customColorList=0,2,3,6,12&animation=twinkling&desc=Software%20Engineer%20|%20Full-Stack%20Wizard&descAlign=50&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Nguyen%20Trung%20Nhan&fontAlign=50&fontAlignY=40&fontSize=70&color=gradient&customColorList=0,2,3,6,12&animation=twinkling&desc=Software%20Engineer%20|%20AI%20Developer%20|%20Full-Stack%20Wizard&descAlign=50&descAlignY=60" width="100%"/>
+
+<!-- FLYING DRAGON DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="600"/>
 
 </div>
 
@@ -41,9 +41,7 @@
 
 ## 🎭 About Me - The Code Samurai
 
-<div align="center">
-  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" align="right"/>
 
 ```typescript
 const nhan = {
@@ -69,9 +67,27 @@ const nhan = {
 
 <br clear="right"/>
 
+<!-- ====================== DRAGON SEPARATOR ====================== -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000"/>
+</div>
+
 <!-- ====================== SNAKE ANIMATION ====================== -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  
+### 🐍 Contribution Snake - Watch it Eat My Commits!
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nhanggwp/nhanggwp/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nhanggwp/nhanggwp/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nhanggwp/nhanggwp/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<!-- FIRE DIVIDER -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
 ---
@@ -179,6 +195,11 @@ const nhan = {
 <!-- ====================== TECH STACK WITH ANIMATIONS ====================== -->
 ## 🛠️ Tech Arsenal - My Weapons of Choice
 
+<!-- CODING GIF -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400">
+</div>
+
 <div align="center">
 
 ### 💻 Languages
@@ -216,6 +237,17 @@ const nhan = {
 
 <!-- ====================== GITHUB STATS WITH ANIMATIONS ====================== -->
 ## 📊 GitHub Analytics - The Numbers Speak
+
+<!-- STATS GIF -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+</div>
+<br/>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nhanggwp&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00eaff&icon_color=f72585&text_color=c9d1d9&ring_color=00eaff"/>
