@@ -1,8 +1,8 @@
 <!-- ====================== ANIMATED HEADER ====================== -->
 <div align="center">
 
-<!-- CYBER DRAGON IMAGE -->
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400"/>
+<!-- EPIC DRAGON IMAGE -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBkNjE0ZjE4ZjE4ZjE4ZjE4ZjE4ZjE4ZjE4ZjE4ZjE4ZjE4ZjE4ZjE4ZjE4/dragon-fantasy-dragon.gif" width="500" alt="Dragon"/>
 
 # 🌌 CYBER DRAGON AWAKENS 🐉
 
@@ -10,8 +10,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Nguyen%20Trung%20Nhan&fontAlign=50&fontAlignY=40&fontSize=70&color=gradient&customColorList=0,2,3,6,12&animation=twinkling&desc=Software%20Engineer%20|%20AI%20Developer%20|%20Full-Stack%20Wizard&descAlign=50&descAlignY=60" width="100%"/>
 
-<!-- FLYING DRAGON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="600"/>
+<!-- DRAGON DIVIDER -->
+<img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="600"/>
 
 </div>
 
@@ -77,11 +77,7 @@ const nhan = {
   
 ### 🐍 Contribution Snake - Watch it Eat My Commits!
   
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nhanggwp/nhanggwp/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nhanggwp/nhanggwp/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nhanggwp/nhanggwp/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
@@ -437,7 +433,7 @@ while(True):
 ```
 
 <!-- FOOTER DRAGON -->
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300"/>
+<img src="https://media.giphy.com/media/3o7WTDxzMCKxNgLuC4/giphy.gif" width="400"/>
 
 ---
 
