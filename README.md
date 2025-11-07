@@ -11,7 +11,7 @@
                          |___/                                                                
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Nguyen%20Trung%20Nhan&fontAlign=50&fontAlignY=40&fontSize=70&color=gradient&customColorList=0,2,3,6,12&animation=twinkling&desc=Software%20Engineer%20|%20AI%20Developer%20|%20Full-Stack%20Wizard&descAlign=50&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Nguyen%20Trung%20Nhan&fontAlign=50&fontAlignY=40&fontSize=70&color=gradient&customColorList=0,2,3,6,12&animation=twinkling&desc=Software%20Engineer%20|%20Full-Stack%20Wizard&descAlign=50&descAlignY=60" width="100%"/>
 
 </div>
 
