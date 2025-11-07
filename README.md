@@ -68,10 +68,6 @@ const profile = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhanggwp&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhanggwp&theme=tokyonight&hide_border=true" />
-</div>
-
 <!-- CONTRIBUTION SNAKE -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -82,8 +78,6 @@ const profile = {
 <div align="center">
 
 # 🏆 ACHIEVEMENTS & AWARDS 🏆
-
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%">
 
 ### ⭐ Outstanding Achievements ⭐
 
@@ -98,16 +92,16 @@ const profile = {
 <tr>
 <td width="100%" align="center">
 
-<img src="https://img.icons8.com/color/96/000000/trophy.png" width="100" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="100" />
 
 ## 🥇 CHAMPION - GOLD MEDAL 🥇
 
-### Bach Khoa Innovation 20225
-**University-Enterprise Track *
+### Bach Khoa Innovation 2024
+**University-Enterprise Track**
 
 <img src="https://img.shields.io/badge/🏆-1ST_PLACE-FFD700?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/Level-National-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Category-University_Enterprise-blue?style=for-the-badge" />
+
+<img src="https://i.imgur.com/YourImageLink.jpg" width="500" />
 
 ---
 
@@ -147,16 +141,13 @@ project = {
 <tr>
 <td width="100%" align="center">
 
-<img src="https://img.icons8.com/color/96/000000/medal.png" width="100" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" width="100" />
 
 ## 🏆 CHAMPION - TROPHY 🏆
 
 ### UIT Data Science Challenge 2025
-**Provincial Competition**
 
 <img src="https://img.shields.io/badge/🥇-1ST_PLACE-FFD700?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/Level-Provincial-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Category-Data_Science_AI-purple?style=for-the-badge" />
 
 ---
 
@@ -196,16 +187,14 @@ project = {
 <tr>
 <td width="100%" align="center">
 
-<img src="https://img.icons8.com/color/96/000000/certificate.png" width="100" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="100" />
 
 ## 🎓 FINALIST - TOP 10 🎓
 
 ### Bach Khoa Innovation 2025
-**University Track | National Competition**
+**University Track**
 
 <img src="https://img.shields.io/badge/🥈-TOP_10_FINALIST-C0C0C0?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/Level-National-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Category-University_Track-blue?style=for-the-badge" />
 
 ---
 
