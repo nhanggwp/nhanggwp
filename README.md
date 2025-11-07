@@ -79,21 +79,178 @@ const profile = {
 
 ---
 
-## � Achievements & Awards
-
 <div align="center">
 
-| 🎖️ Icon | Award | Competition | Project | Repository |
-| :------: | :---- | :---------- | :------ | :--------- |
-| 🥇 | **Champion** | **Bach Khoa Innovation 2024**<br/>University-Enterprise Track | **GreenBooth** - Smart Waste Sorting System<br/>_TFLite Object Detection + IoT Integration_ | [![Repo](https://img.shields.io/badge/View-Repository-blue?style=flat&logo=github)](https://github.com/longlephamtien/GreenBooth) |
-| 🏆 | **Champion** | **UIT Data Science Challenge 2025** | **MediTrack** - AI Prescription OCR<br/>_Tesseract OCR + Drug Name Extraction_ | [![Repo](https://img.shields.io/badge/View-Repository-blue?style=flat&logo=github)](https://github.com/nhanggwp/BKU-MEDITRACK_Sourcecode) |
-| 🎓 | **Finalist** | **Bach Khoa Innovation 2025**<br/>University Track | **MediTrack Platform** - Medical Tracking App<br/>_FastAPI Backend + React Native Mobile_ | [![Repo](https://img.shields.io/badge/View-Repository-blue?style=flat&logo=github)](https://github.com/nhanggwp/BKU-MEDITRACK_Sourcecode) |
+# 🏆 ACHIEVEMENTS & AWARDS 🏆
 
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+
+### ⭐ DANH HIỆU CAO QUỐC GIA & TỈNH ⭐
+
+</div>
+
+<br/>
+
+<!-- ==================== CHAMPION 1: BACH KHOA 2024 ==================== -->
+<div align="center">
+
+<table>
+<tr>
+<td width="100%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="100" />
+
+## 🥇 CHAMPION - GOLD MEDAL 🥇
+
+### Bach Khoa Innovation 2024
+**University-Enterprise Track | National Competition**
+
+<img src="https://img.shields.io/badge/🏆-1ST_PLACE-FFD700?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/Level-National-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Category-University_Enterprise-blue?style=for-the-badge" />
+
+---
+
+### 🌱 **GreenBooth** - Smart Waste Sorting System
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
+
+**Revolutionary AI-Powered Environmental Solution**
+
+```python
+project = {
+    "name": "GreenBooth",
+    "description": "Smart IoT Waste Classification System",
+    "technologies": [
+        "TensorFlow Lite - Edge AI",
+        "Object Detection Models", 
+        "IoT Sensors Integration",
+        "Real-time Processing"
+    ],
+    "impact": "Automated waste sorting for environmental sustainability",
+    "achievement": "🥇 National Champion - University-Enterprise Track"
+}
+```
+
+[![View Repository](https://img.shields.io/badge/🔗_VIEW_PROJECT-SUCCESS-00D26A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/longlephamtien/GreenBooth)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/><br/>
+
+<!-- ==================== CHAMPION 2: UIT 2025 ==================== -->
+<div align="center">
+
+<table>
+<tr>
+<td width="100%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100" />
+
+## 🏆 CHAMPION - TROPHY 🏆
+
+### UIT Data Science Challenge 2025
+**Provincial Competition**
+
+<img src="https://img.shields.io/badge/🥇-1ST_PLACE-FFD700?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/Level-Provincial-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Category-Data_Science_AI-purple?style=for-the-badge" />
+
+---
+
+### 💊 **MediTrack** - AI Prescription OCR Platform
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="600">
+
+**Advanced Medical AI Recognition System**
+
+```python
+project = {
+    "name": "MediTrack OCR",
+    "description": "AI-Powered Prescription Analysis Platform",
+    "technologies": [
+        "Tesseract OCR Engine",
+        "NLP Drug Name Extraction",
+        "Computer Vision",
+        "Pattern Recognition"
+    ],
+    "impact": "Automated prescription digitization for healthcare",
+    "achievement": "🏆 Provincial Champion - Data Science Challenge"
+}
+```
+
+[![View Repository](https://img.shields.io/badge/🔗_VIEW_PROJECT-SUCCESS-00D26A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nhanggwp/BKU-MEDITRACK_Sourcecode)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/><br/>
+
+<!-- ==================== FINALIST: BACH KHOA 2025 ==================== -->
+<div align="center">
+
+<table>
+<tr>
+<td width="100%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="100" />
+
+## 🎓 FINALIST - TOP 10 🎓
+
+### Bach Khoa Innovation 2025
+**University Track | National Competition**
+
+<img src="https://img.shields.io/badge/🥈-TOP_10_FINALIST-C0C0C0?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/Level-National-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Category-University_Track-blue?style=for-the-badge" />
+
+---
+
+### 📱 **MediTrack Platform** - Full-Stack Medical Application
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600">
+
+**Complete Healthcare Management System**
+
+```python
+project = {
+    "name": "MediTrack Platform",
+    "description": "Full-Stack Medical Tracking Mobile App",
+    "technologies": [
+        "FastAPI - Python Backend",
+        "PostgreSQL Database",
+        "React Native Mobile",
+        "Expo Framework"
+    ],
+    "impact": "Comprehensive health tracking and medication management",
+    "achievement": "🎓 National Finalist - Top 10 University Track"
+}
+```
+
+[![View Repository](https://img.shields.io/badge/🔗_VIEW_PROJECT-SUCCESS-00D26A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nhanggwp/BKU-MEDITRACK_Sourcecode)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
 
 ---
 
-## � Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 <table>
@@ -220,7 +377,7 @@ const profile = {
 
 ---
 
-## � Contact & Connect
+## 📞 Contact & Connect
 
 <div align="center">
 
