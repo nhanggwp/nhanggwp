@@ -120,7 +120,7 @@ project = {
         "Real-time Processing"
     ],
     "impact": "Automated waste sorting for environmental sustainability",
-    "achievement": "🥇 National Champion - University-Enterprise Track"
+    "achievement": "🥇  Champion - University-Enterprise Track"
 }
 ```
 
@@ -166,7 +166,7 @@ project = {
         "Pattern Recognition"
     ],
     "impact": "Automated prescription digitization for healthcare",
-    "achievement": "🏆 Provincial Champion - Data Science Challenge"
+    "achievement": "🏆  Champion - Data Science Challenge"
 }
 ```
 
@@ -189,12 +189,12 @@ project = {
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="100" />
 
-## 🎓 FINALIST - TOP 10 🎓
+## 🎓 FINALIST - TOP 20 🎓
 
 ### Bach Khoa Innovation 2025
 **University Track**
 
-<img src="https://img.shields.io/badge/🥈-TOP_10_FINALIST-C0C0C0?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/🥈-TOP_20_FINALIST-C0C0C0?style=for-the-badge&labelColor=000000" />
 
 ---
 
@@ -213,7 +213,7 @@ project = {
         "Expo Framework"
     ],
     "impact": "Comprehensive health tracking and medication management",
-    "achievement": "🎓 National Finalist - Top 10 University Track"
+    "achievement": "🎓  Finalist - Top 20 University Track"
 }
 ```
 
