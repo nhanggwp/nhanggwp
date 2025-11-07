@@ -32,28 +32,28 @@
 
 ```typescript
 const profile = {
-    name: "Nguyen Trung Nhan",
-    role: "Software Engineer",
-    location: "Ho Chi Minh City, Vietnam",
-    education: "HCMUT - Bach Khoa University",
-    gpa: "3.7/4.0 (8.73/10)",
-    
-    expertise: [
-        "AI/OCR Development",
-        "Mobile Application Development", 
-        "Backend Systems Design"
-    ],
-    
-    techStack: {
-        backend: ["FastAPI", "PostgreSQL", "Docker"],
-        mobile: ["React Native", "Expo"],
-        ai_ml: ["TensorFlow", "Tesseract OCR", "TFLite"],
-        languages: ["Python", "JavaScript", "TypeScript", "C++", "Java"],
-        tools: ["Git", "Figma", "Mermaid"]
-    },
-    
-    currentFocus: "Building scalable AI-powered mobile solutions",
-    openTo: ["Full-time opportunities", "Collaboration", "Open source"]
+  name: "Nguyen Trung Nhan",
+  role: "Software Engineer",
+  location: "Ho Chi Minh City, Vietnam",
+  education: "HCMUT - Bach Khoa University",
+  gpa: "3.7/4.0 (8.73/10)",
+
+  expertise: [
+    "AI/OCR Development",
+    "Mobile Application Development",
+    "Backend Systems Design",
+  ],
+
+  techStack: {
+    backend: ["FastAPI", "PostgreSQL", "Docker"],
+    mobile: ["React Native", "Expo"],
+    ai_ml: ["TensorFlow", "Tesseract OCR", "TFLite"],
+    languages: ["Python", "JavaScript", "TypeScript", "C++", "Java"],
+    tools: ["Git", "Figma", "Mermaid"],
+  },
+
+  currentFocus: "Building scalable AI-powered mobile solutions",
+  openTo: ["Full-time opportunities", "Collaboration", "Open source"],
 };
 ```
 
@@ -64,12 +64,17 @@ const profile = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nhanggwp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nhanggwp&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&custom_title=GitHub%20Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhanggwp&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhanggwp&theme=tokyonight&hide_border=true" />
+</div>
+
+<!-- CONTRIBUTION SNAKE -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <div align="center">
@@ -82,11 +87,11 @@ const profile = {
 
 <div align="center">
 
-| Award | Competition | Project | Repository |
-|:------|:-----------|:--------|:-----------|
-| 🥇 **Champion** | Bach Khoa Innovation 2024<br/>University-Enterprise Track | **GreenBooth** - Smart Waste Sorting System<br/>_TFLite Object Detection + IoT Integration_ | [![Repo](https://img.shields.io/badge/View-Repository-blue?style=flat&logo=github)](https://github.com/longlephamtien/GreenBooth) |
-| 🥇 **Champion** | UIT Data Science Challenge 2025 | **MediTrack** - AI Prescription OCR<br/>_Tesseract OCR + Drug Name Extraction_ | [![Repo](https://img.shields.io/badge/View-Repository-blue?style=flat&logo=github)](https://github.com/nhanggwp/BKU-MEDITRACK_Sourcecode) |
-| 🥈 **Finalist** | Bach Khoa Innovation 2025<br/>University Track | **MediTrack Platform** - Medical Tracking App<br/>_FastAPI Backend + React Native Mobile_ | [![Repo](https://img.shields.io/badge/View-Repository-blue?style=flat&logo=github)](https://github.com/nhanggwp/BKU-MEDITRACK_Sourcecode) |
+| Award           | Competition                                               | Project                                                                                     | Repository                                                                                                                                |
+| :-------------- | :-------------------------------------------------------- | :------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------- |
+| 🥇 **Champion** | Bach Khoa Innovation 2024<br/>University-Enterprise Track | **GreenBooth** - Smart Waste Sorting System<br/>_TFLite Object Detection + IoT Integration_ | [![Repo](https://img.shields.io/badge/View-Repository-blue?style=flat&logo=github)](https://github.com/longlephamtien/GreenBooth)         |
+| 🥇 **Champion** | UIT Data Science Challenge 2025                           | **MediTrack** - AI Prescription OCR<br/>_Tesseract OCR + Drug Name Extraction_              | [![Repo](https://img.shields.io/badge/View-Repository-blue?style=flat&logo=github)](https://github.com/nhanggwp/BKU-MEDITRACK_Sourcecode) |
+| 🥈 **Finalist** | Bach Khoa Innovation 2025<br/>University Track            | **MediTrack Platform** - Medical Tracking App<br/>_FastAPI Backend + React Native Mobile_   | [![Repo](https://img.shields.io/badge/View-Repository-blue?style=flat&logo=github)](https://github.com/nhanggwp/BKU-MEDITRACK_Sourcecode) |
 
 </div>
 
@@ -100,14 +105,17 @@ const profile = {
 <td width="50%" valign="top">
 
 ### MediTrack - AI Medical Platform
+
 [![MediTrack](https://github-readme-stats.vercel.app/api/pin/?username=nhanggwp&repo=BKU-MEDITRACK_Sourcecode&theme=tokyonight&hide_border=true)](https://github.com/nhanggwp/BKU-MEDITRACK_Sourcecode)
 
 **Technology Stack:**
+
 - Python, FastAPI, PostgreSQL
 - React Native, Expo
 - Tesseract OCR, AI/ML
 
 **Key Features:**
+
 - OCR-based prescription scanning
 - Automated drug name extraction
 - Health tracking & analytics
@@ -117,14 +125,17 @@ const profile = {
 <td width="50%" valign="top">
 
 ### GreenBooth - Smart Waste Sorting
+
 [![GreenBooth](https://github-readme-stats.vercel.app/api/pin/?username=longlephamtien&repo=GreenBooth&theme=tokyonight&hide_border=true)](https://github.com/longlephamtien/GreenBooth)
 
 **Technology Stack:**
+
 - Python, TensorFlow
 - TFLite for Edge AI
 - IoT Integration
 
 **Key Features:**
+
 - Real-time object detection
 - Automated weight measurement
 - Waste classification system
@@ -137,11 +148,13 @@ const profile = {
 <td width="50%" valign="top">
 
 ### Tutor Support System
+
 **Full-Stack Education Management Platform**
 
 **Technologies:** PostgreSQL, ERD Design, Backend Systems
 
 **Features:**
+
 - Complex database architecture
 - Role-based access control
 - Student progress tracking
@@ -151,11 +164,13 @@ const profile = {
 <td width="50%" valign="top">
 
 ### HireMatch - Recruitment System
+
 **AI-Powered CV Ranking Platform**
 
 **Technologies:** FastAPI, Machine Learning, NLP
 
 **Features:**
+
 - Automated CV parsing
 - ML-based candidate ranking
 - Smart job matching algorithm
@@ -173,6 +188,7 @@ const profile = {
 <div align="center">
 
 ### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -181,6 +197,7 @@ const profile = {
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Frameworks & Libraries
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
@@ -188,6 +205,7 @@ const profile = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Databases & Tools
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -196,6 +214,7 @@ const profile = {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### Specialized Skills
+
 ![OCR](https://img.shields.io/badge/Tesseract_OCR-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![TFLite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
