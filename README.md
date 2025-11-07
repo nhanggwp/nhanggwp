@@ -1,136 +1,414 @@
-<!-- ====================== CYBER DRAGON ASCII HEADER ====================== -->
-<pre align="center">
+<!-- ====================== ANIMATED HEADER ====================== -->
+<div align="center">
+  
+# 🌌 CYBER DRAGON AWAKENS 🐉
+
+```ascii
    ___        _                        ______                _                 _             
   / __|  _  _| |__ _ _ _  __ _  ___   |  _  \ _ _ _ _  _ _ _| |__  ___ _ _  __| | ___  _ _   
   \__ \ | || | / _` | ' \/ _` |/ -_)  | | | | '_| ' \| '_| _| '_ \/ -_) ' \/ _` |/ _ \| ' \  
   |___/  \_,_|_\__,_|_||_\__, |\___|  |_| |_|_| |_||_|_| \__|_.__/\___|_||_\__,_|\___/|_||_| 
                          |___/                                                                
-                 ~~~=== CYBER DRAGON MODE ENABLED ===~~~
-</pre>
+```
 
-<!-- ====================== ANIME NEON BANNER ====================== -->
-<p align="center">
-  <!-- Fallback banner (works out of the box) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Nguyen%20Trung%20Nhan&fontAlign=50&fontSize=60&color=0:00f0ff,100:7c00ff&animation=twinkling" />
-  <!-- Optional: replace ./assets/anime-banner.png with your own anime neon banner -->
-  <!-- <img src="./assets/anime-banner.png" width="100%" /> -->
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Nguyen%20Trung%20Nhan&fontAlign=50&fontAlignY=40&fontSize=70&color=gradient&customColorList=0,2,3,6,12&animation=twinkling&desc=Software%20Engineer%20|%20AI%20Developer%20|%20Full-Stack%20Wizard&descAlign=50&descAlignY=60" width="100%"/>
 
-<!-- Typing line -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3200&pause=1200&color=00E5FF&center=true&vCenter=true&width=820&lines=Software+Engineer;AI%2FOCR+Developer;Full-stack+(Mobile+%2B+Backend);Distributed+Systems+Enthusiast" />
-</p>
+</div>
 
-<!-- Social + GPA -->
-<p align="center">
-  <a href="https://github.com/nhanggwp"><img src="https://img.shields.io/badge/GitHub-nhanggwp-0d1117?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/nh%C3%A2n-nguy%E1%BB%85n-trung-3017a02a1/"><img src="https://img.shields.io/badge/LinkedIn-View_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/GPA-3.7%2F4.0-06d6a0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GPA_(Scale_10)-8.73%2F10-22c55e?style=for-the-badge" />
-</p>
+<!-- ====================== ANIMATED TYPING ====================== -->
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=100&lines=🚀+Full-Stack+Developer+%7C+AI+Enthusiast;💻+FastAPI+%7C+PostgreSQL+%7C+React+Native;🧠+Distributed+Systems+%7C+OCR+%7C+TFLite;🎯+Building+Production-Ready+Solutions;⚡+Let's+Create+Something+Amazing!)](https://git.io/typing-svg)
 
----
+</div>
 
-<h2 align="center">⚡ About Me</h2>
+<!-- ====================== SOCIAL BADGES WITH GLOW EFFECT ====================== -->
+<div align="center">
 
-<p align="center">
-  🔥 Passionate about building AI-powered mobile systems • 💻 FastAPI, PostgreSQL, OCR/TFLite<br/>
-  📱 React Native (Expo) • 🧠 Distributed Systems • 🧩 ERD/UML/Mermaid<br/>
-  🎯 Mission: Deliver production-ready, end-to-end solutions
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-nhanggwp-black?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=00e5ff)](https://github.com/nhanggwp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nguyễn_Trung_Nhân-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nh%C3%A2n-nguy%E1%BB%85n-trung-3017a02a1/)
+![GPA](https://img.shields.io/badge/GPA-3.7%2F4.0_|_8.73%2F10-06d6a0?style=for-the-badge&logo=google-scholar&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=nhanggwp&style=for-the-badge&color=ff00ff&label=PROFILE+VIEWS)
+
+</div>
+
+<!-- ====================== MATRIX RAIN DIVIDER ====================== -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+</div>
 
 ---
 
-<!-- ====================== ACHIEVEMENTS – TROPHY + BADGES ====================== -->
-<h2 align="center">🏆 Achievements</h2>
+## 🎭 About Me - The Code Samurai
 
-<p align="center">
-  <img width="820" src="https://github-profile-trophy.vercel.app/?username=nhanggwp&theme=matrix&no-frame=true&no-bg=true&row=1&margin-w=15" />
-</p>
+<div align="center">
+  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🥇%20Champion-Bach%20Khoa%20Innovation%20(Uni–Enterprise)-ffea00?style=for-the-badge" /><br/>
-  <b>GreenBooth – Smart Waste Sorting System</b><br/>
-  <sub>Repo:</sub> https://github.com/longlephamtien/GreenBooth
-</p>
-<br/>
+```typescript
+const nhan = {
+    role: "Software Engineer 🚀",
+    location: "Ho Chi Minh City, Vietnam 🇻🇳",
+    education: "HCMUT - Bach Khoa University 🎓",
+    expertise: ["AI/OCR", "Mobile Development", "Backend Systems"],
+    currentFocus: "Building AI-powered mobile solutions",
+    motto: "Code is poetry, bugs are modern art 🎨",
+    
+    techStack: {
+        backend: ["FastAPI", "PostgreSQL", "Docker"],
+        mobile: ["React Native", "Expo"],
+        ai_ml: ["TensorFlow", "Tesseract OCR", "TFLite"],
+        languages: ["Python", "JavaScript", "TypeScript", "C++", "Java"],
+        tools: ["Git", "Figma", "Mermaid", "ERD"]
+    },
+    
+    currentlyLearning: ["Distributed Systems", "Microservices"],
+    funFact: "I turn coffee into code ☕➡️💻"
+};
+```
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🥇%20Champion-UIT%20Data%20Science%20Challenge%202025-13ff66?style=for-the-badge" /><br/>
-  <b>MediTrack – AI-powered Prescription OCR</b><br/>
-  <sub>Repo:</sub> https://github.com/nhanggwp/BKU-MEDITRACK_Sourcecode
-</p>
-<br/>
+<br clear="right"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🥈%20Finalist-Bach%20Khoa%20Innovation%202025%20(University)-5090ff?style=for-the-badge" /><br/>
-  <b>MediTrack – AI-driven Medical Tracking Platform</b><br/>
-  <sub>Repo:</sub> https://github.com/nhanggwp/BKU-MEDITRACK_Sourcecode
-</p>
-
-<!-- Optional repo cards for quick visual -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=longlephamtien&repo=GreenBooth&theme=tokyonight&border_color=00f0ff&border_radius=10" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhanggwp&repo=BKU-MEDITRACK_Sourcecode&theme=tokyonight&border_color=f72585&border_radius=10" />
-</p>
-
----
-
-<!-- ====================== MATRIX RAIN BACKGROUND STRIP ====================== -->
-<!-- Tip: to make this perfect, add your own ./assets/matrix-rain.gif and uncomment that line -->
-<p align="center">
-  <!-- Local (recommended): <img src="./assets/matrix-rain.gif" width="100%" /> -->
-  <img src="https://raw.githubusercontent.com/istio/istio.io/master/content/en/docs/examples/multicluster/gke/images/matrix.gif" width="100%" />
-</p>
+<!-- ====================== SNAKE ANIMATION ====================== -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 ---
 
-<h2 align="center">🛠 Tech Stack</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,js,ts,react,cpp,java,postgres,tensorflow,docker,git,figma&theme=dark" />
-</p>
+<!-- ====================== TROPHY SHOWCASE ====================== -->
+## 🏆 Trophy Case - Hall of Fame
 
----
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nhanggwp&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" />
+</div>
 
-<h2 align="center">🔥 GitHub Stats</h2>
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nhanggwp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=nhanggwp&theme=tokyonight&hide_border=true&background=00000000" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhanggwp&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</p>
+<!-- ====================== ACHIEVEMENTS WITH ANIMATIONS ====================== -->
+## 🎖️ Achievements & Awards
 
----
+<div align="center">
 
-<h2 align="center">📌 Featured Projects</h2>
+| 🥇 | Achievement | Project | Link |
+|:---:|:------------|:--------|:-----|
+| ![Champion](https://img.shields.io/badge/🏆_CHAMPION-FFD700?style=for-the-badge) | **Bach Khoa Innovation 2024**<br/>University-Enterprise Track | **GreenBooth**<br/>🌱 Smart Waste Sorting System<br/>TFLite Object Detection + IoT | [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/longlephamtien/GreenBooth) |
+| ![Champion](https://img.shields.io/badge/🏆_CHAMPION-FFD700?style=for-the-badge) | **UIT Data Science Challenge 2025** | **MediTrack**<br/>💊 AI Prescription OCR<br/>Tesseract + Drug Extraction | [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/nhanggwp/BKU-MEDITRACK_Sourcecode) |
+| ![Finalist](https://img.shields.io/badge/🥈_FINALIST-C0C0C0?style=for-the-badge) | **Bach Khoa Innovation 2025**<br/>University Track | **MediTrack Platform**<br/>📱 Full-Stack Medical App<br/>FastAPI + React Native | [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/nhanggwp/BKU-MEDITRACK_Sourcecode) |
 
-### 📱 MediTrack — AI Prescription OCR
-FastAPI backend + Tesseract OCR + AI drug extraction + React Native app.  
-Repo: https://github.com/nhanggwp/BKU-MEDITRACK_Sourcecode
+</div>
 
-### 🧪 GreenBooth — Smart Weighing & Detection
-TFLite object detection + serial weight sensor → real-time glass detection.  
-Repo: https://github.com/longlephamtien/GreenBooth
+<!-- ====================== FEATURED PROJECTS WITH CARDS ====================== -->
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 📱 MediTrack - AI Medical Platform
+[![MediTrack](https://github-readme-stats.vercel.app/api/pin/?username=nhanggwp&repo=BKU-MEDITRACK_Sourcecode&theme=radical&border_color=f72585&border_radius=15&hide_border=false)](https://github.com/nhanggwp/BKU-MEDITRACK_Sourcecode)
+
+**Tech Stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+
+**Features:**
+- ✅ OCR Prescription Scanning
+- ✅ AI Drug Name Extraction
+- ✅ Health Tracking Dashboard
+- ✅ Real-time Notifications
+
+</td>
+<td width="50%">
+
+### 🧪 GreenBooth - Smart Waste System
+[![GreenBooth](https://github-readme-stats.vercel.app/api/pin/?username=longlephamtien&repo=GreenBooth&theme=radical&border_color=00f0ff&border_radius=15&hide_border=false)](https://github.com/longlephamtien/GreenBooth)
+
+**Tech Stack:**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-00979D?style=flat&logo=arduino&logoColor=white)
+
+**Features:**
+- ✅ Real-time Object Detection
+- ✅ Automated Weight Measurement
+- ✅ Waste Classification
+- ✅ Environmental Analytics
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🎓 Tutor Support System
-ERD, DDL, backend system for tutoring & progress management.
+**Full-Stack Education Platform**
 
-### 💼 HireMatch
-CV parsing + ranking model + recruiter workflow (prototype).
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![ERD](https://img.shields.io/badge/ERD_Design-FF6B6B?style=flat&logo=diagram&logoColor=white)
+
+- 📊 Complex ERD Design
+- 🔐 Role-based Access Control
+- 📈 Progress Tracking
+- 💬 Real-time Communication
+
+</td>
+<td width="50%">
+
+### 💼 HireMatch - CV Ranking
+**AI-Powered Recruitment Tool**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![AI](https://img.shields.io/badge/AI_Ranking-7C3AED?style=flat&logo=openai&logoColor=white)
+
+- 🤖 Automated CV Parsing
+- 📊 ML-based Ranking
+- 🔍 Smart Job Matching
+- 📧 Recruiter Dashboard
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-<h2 align="center">🌐 Connect</h2>
-<p align="center">
-  <a href="https://github.com/nhanggwp"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
-  <a href="https://www.linkedin.com/in/nh%C3%A2n-nguy%E1%BB%85n-trung-3017a02a1/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
-</p>
+<!-- ====================== TECH STACK WITH ANIMATIONS ====================== -->
+## 🛠️ Tech Arsenal - My Weapons of Choice
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nhanggwp&style=for-the-badge&color=00eaff" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=120&color=7c00ff&section=footer" />
-</p>
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00599C)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=ED8B00)
+
+### 🚀 Frameworks & Libraries
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=009688)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white&labelColor=000020)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00)
+
+### 🗄️ Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=316192)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E)
+
+### 🧠 AI/ML & Specialized
+![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-00CED1?style=for-the-badge&logo=google&logoColor=white&labelColor=00CED1)
+![TFLite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00)
+![Mermaid](https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=white&labelColor=FF3670)
+
+</div>
+
+<!-- ====================== SKILL ICONS WITH ANIMATION ====================== -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,fastapi,js,ts,react,cpp,java,postgres,tensorflow,docker,git,figma&theme=dark&perline=6" />
+</div>
+
+---
+
+<!-- ====================== GITHUB STATS WITH ANIMATIONS ====================== -->
+## 📊 GitHub Analytics - The Numbers Speak
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nhanggwp&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00eaff&icon_color=f72585&text_color=c9d1d9&ring_color=00eaff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhanggwp&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00eaff&text_color=c9d1d9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhanggwp&theme=radical&hide_border=true&background=0D1117&ring=00eaff&fire=f72585&currStreakLabel=00eaff" />
+</div>
+
+<!-- ====================== ACTIVITY GRAPH ====================== -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nhanggwp&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00eaff&line=f72585&point=00eaff" width="100%"/>
+</div>
+
+---
+
+<!-- ====================== CODING ACTIVITY ====================== -->
+## ⏱️ Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+```text
+Python       12 hrs 30 mins  ████████████░░░░░  45.2%
+TypeScript    8 hrs 15 mins  ████████░░░░░░░░░  29.8%
+JavaScript    4 hrs 10 mins  ███░░░░░░░░░░░░░░  15.1%
+SQL           1 hr 45 mins   █░░░░░░░░░░░░░░░░   6.3%
+Other         1 hr 00 mins   ░░░░░░░░░░░░░░░░░   3.6%
+```
+<!--END_SECTION:waka-->
+
+---
+
+<!-- ====================== CONTRIBUTION GRAPH ====================== -->
+## 📈 Contribution Graph - My Journey
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nhanggwp&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nhanggwp&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nhanggwp&theme=radical" />
+</div>
+
+---
+
+<!-- ====================== SKILLS RADAR CHART ====================== -->
+## 🎯 Skill Levels - Power Chart
+
+<div align="center">
+
+```mermaid
+%%{init: {'theme':'dark'}}%%
+graph TD
+    A[Nguyen Trung Nhan] --> B[Backend Development]
+    A --> C[Mobile Development]
+    A --> D[AI/ML]
+    A --> E[Database Design]
+    
+    B --> B1[FastAPI ⭐⭐⭐⭐⭐]
+    B --> B2[PostgreSQL ⭐⭐⭐⭐⭐]
+    B --> B3[Docker ⭐⭐⭐⭐]
+    
+    C --> C1[React Native ⭐⭐⭐⭐⭐]
+    C --> C2[Expo ⭐⭐⭐⭐⭐]
+    C --> C3[TypeScript ⭐⭐⭐⭐]
+    
+    D --> D1[TensorFlow ⭐⭐⭐⭐]
+    D --> D2[OCR ⭐⭐⭐⭐⭐]
+    D --> D3[TFLite ⭐⭐⭐⭐]
+    
+    E --> E1[ERD Design ⭐⭐⭐⭐⭐]
+    E --> E2[SQL ⭐⭐⭐⭐⭐]
+    E --> E3[Data Modeling ⭐⭐⭐⭐]
+    
+    style A fill:#00eaff,stroke:#f72585,stroke-width:4px
+    style B fill:#f72585,stroke:#00eaff,stroke-width:2px
+    style C fill:#7c00ff,stroke:#00eaff,stroke-width:2px
+    style D fill:#00f0ff,stroke:#00eaff,stroke-width:2px
+    style E fill:#ff006e,stroke:#00eaff,stroke-width:2px
+```
+
+</div>
+
+---
+
+<!-- ====================== CURRENT STATUS ====================== -->
+## 🔥 Current Status - What I'm Up To
+
+<div align="center">
+
+| 🎯 Focus Area | 📚 Learning | 🚀 Building |
+|:--------------|:-----------|:------------|
+| **Distributed Systems** | Microservices Architecture | P2P File Sharing Network |
+| **AI/ML Integration** | Advanced OCR Techniques | MediTrack V2.0 |
+| **Mobile Performance** | React Native Optimization | Real-time Chat System |
+| **System Design** | Scalability Patterns | Cloud-Native Applications |
+
+</div>
+
+---
+
+<!-- ====================== LATEST BLOG POSTS ====================== -->
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- 🔥 [Building Production-Ready FastAPI Applications](https://dev.to/)
+- 🚀 [React Native: Performance Optimization Tips](https://dev.to/)
+- 🧠 [OCR with Tesseract: A Complete Guide](https://dev.to/)
+- 💻 [Distributed Systems: P2P Networks Explained](https://dev.to/)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<!-- ====================== CONNECT WITH ME ====================== -->
+## 🌐 Let's Connect - Find Me Across The Web
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-nhanggwp-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nhanggwp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nguyễn_Trung_Nhân-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nh%C3%A2n-nguy%E1%BB%85n-trung-3017a02a1/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nhan.nguyen@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-00eaff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+
+</div>
+
+---
+
+<!-- ====================== QUOTES ====================== -->
+<div align="center">
+  
+### 💭 Random Dev Quote
+  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+<!-- ====================== SUPPORT ====================== -->
+## ☕ Support My Work
+
+<div align="center">
+
+If you find my projects helpful, consider buying me a coffee! ☕
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/nhanggwp)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nhanggwp)
+
+</div>
+
+---
+
+<!-- ====================== VISITOR COUNT & FOOTER ====================== -->
+<div align="center">
+
+### 👁️ Profile Visitors
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnhanggwp&label=VISITORS&countColor=%2300eaff&style=for-the-badge&labelStyle=upper)
+
+---
+
+### 🎮 Fun Fact
+
+```python
+while(True):
+    coffee = drink_coffee()
+    code = write_awesome_code()
+    if code.is_perfect():
+        deploy()
+        break
+    else:
+        debug()
+        repeat()
+```
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0,2,3,6,12&section=footer&text=Thanks%20for%20Visiting!&fontSize=50&fontAlign=50&fontAlignY=70&animation=twinkling" width="100%"/>
+
+**Made with 💖 and lots of ☕ by Nguyen Trung Nhan**
+
+</div>
+
+<!-- ====================== BADGES COLLECTION ====================== -->
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
