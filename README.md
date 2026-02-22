@@ -17,7 +17,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-nhanggwp-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nhanggwp)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nguyễn_Trung_Nhân-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nh%C3%A2n-nguy%E1%BB%85n-trung-3017a02a1/)
-![GPA](https://img.shields.io/badge/GPA-3.7%2F4.0-success?style=for-the-badge&logo=google-scholar&logoColor=white)
+![GPA](https://img.shields.io/badge/GPA-3.8%2F4.0-success?style=for-the-badge&logo=google-scholar&logoColor=white)
 ![Profile Views](https://komarev.com/ghpvc/?username=nhanggwp&style=for-the-badge&color=blue&label=Profile+Views)
 
 </div>
@@ -36,7 +36,7 @@ const profile = {
   role: "Software Engineer",
   location: "Ho Chi Minh City, Vietnam",
   education: "HCMUT - Bach Khoa University",
-  gpa: "3.7/4.0 (8.73/10)",
+  gpa: "3.8/4.0 (8.9/10)",
 
   expertise: [
     "AI/OCR Development",
