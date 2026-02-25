@@ -61,6 +61,33 @@ const profile = {
 
 ---
 
+---
+
+## 🧠 LeetCode Journey
+
+<div align="center">
+
+<!-- Main LeetCode card (stats) -->
+<img src="https://leetcard.jacoblin.cool/NrtDtm9uyj?theme=dark&font=Nunito&ext=heatmap" height="220" />
+
+<br/>
+
+<!-- Optional: Contest card -->
+<img src="https://leetcard.jacoblin.cool/NrtDtm9uyj?theme=dark&font=Nunito&ext=contest" height="220" />
+
+<br/>
+
+<!-- Optional: Profile link button -->
+<a href="https://leetcode.com/u/NrtDtm9uyj/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+</div>
+
+---
+
+
+
 ## 📊 GitHub Statistics
 
 <div align="center">
