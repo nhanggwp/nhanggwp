@@ -68,7 +68,7 @@ const profile = {
 <div align="center">
 
 <!-- Main LeetCode card (stats) -->
-<img src="https://leetcard.jacoblin.cool/trungnhancsej?theme=dark&font=Nunito&ext=heatmap" height="220" />
+<img src="https://leetcard.jacoblin.cool/trungnhancse?theme=dark&font=Nunito&ext=heatmap" height="220" />
 
 <br/>
 
